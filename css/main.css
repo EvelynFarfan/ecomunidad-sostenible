@@ -1,0 +1,139 @@
+/* Inserta tu codigo aqui */
+*{
+	box-sizing: border-box;
+	font-family: "open sans";
+}
+header{
+	height: 170px;
+   padding: 20px 0;
+}
+header img{
+	width: 80%;
+}
+header nav{
+	margin-top: 50px;
+}
+.boton1, .boton2, .boton3, .boton4, .boton5{
+	border-right: 1px solid #868C8F;
+  padding: 0px 30px;
+}
+.boton6{
+	padding: 0px 30px;
+}
+a:hover {
+	color: #A7C244;
+}
+.bloque1{
+	background-image: url(../img/semilla.jpg);
+	background-position: center;
+	height: 500px;
+}
+.bloque2{
+	padding: 60px;
+	height: auto;
+}
+.bloque3, .bloque5, .bloque6, .bloque7, 
+.bloque8, .bloque9, footer {
+	padding: 50px 0;
+}
+.bloque3 img, h2{
+	margin-bottom: 20px;
+	font-size: 30px;
+  color: #757A7D;
+}
+.box1{
+  height: 450px;
+  background-image: url(../img/fondo-metodo.jpg);
+  background-size: 101%;
+}
+.box2{
+	height: 450px;
+  background-position: center;
+  background-image: url(../img/fondo.jpg);
+  background-size: 110%;
+}
+.bloque4 h2, .bloque4 img, .bloque5 img{
+	margin-bottom: 20px;
+}
+.bloque4 .block{
+	padding: 108px 90px 0 90px;
+}
+.text-servicios{
+	margin-bottom: 30px;
+}
+.t1, .t2, .t3, .t4, .t5, .t6{
+	color: #A7C244;
+  font-size: 18px;
+}
+.t1, .t2, .t3{
+	padding: 0 50px 20px 50px;
+}
+.t4, .t5{
+	padding: 0 30px 20px 30px;
+}
+.t6{
+	padding: 23px;
+}
+.bloque5 p{
+	padding: 0 20px;
+}
+.bloque6 img, .bloque8 img{
+	width: 100%
+}
+.bloque6 h3, .bloque7 h3, .bloque8 h3{
+	font-size: 23px;
+	margin-bottom: 10px;
+}
+.bloque6 .sub{
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+.bloque7 h2{
+	color: #A7C244;
+}
+.bloque7 .circle{
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
+.bloque7 p{
+	padding: 0 20px;
+}
+.icon-equipo{
+	width: 40px;
+	margin: 20px 10px 0 10px;
+}
+.bloque8{
+	background-image: url(../img/fondo2.jpg);
+	color: #565A5C;
+}
+.bloque8 .flecha1, .bloque8 .flecha2{
+	width: 40px;
+}
+.flecha1{
+	float: left;
+  margin: 213px 0px 0px 50px;
+}
+.flecha2{
+	float: right;
+	margin: -240px 55px 0px 0px
+}
+.bloque9{
+	background-color: #4D4D4D;
+}
+.border{
+	border: 1px solid white;
+	height: 250px
+}
+.bloque9 .col-3 img{
+	width: 55px;
+  margin: 15px 10px 0 0;
+  float: right;
+}
+.bloque9 .col-3 p{
+	float: left;
+  font-size: 18px;
+  margin: 25px 0px 0px 20px;
+}
+footer, footer a{
+	color: #565A5C;
+}
