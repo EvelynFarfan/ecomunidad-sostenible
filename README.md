@@ -6,5 +6,4 @@ Proyecto realizado en Laboratoria, luego de un mes de clases.7
 <br>
 Este proyecto esta realizado con HTML - CSS y con la grilla "Simple Grill"
 
-
-<a href="http://3.1m.yt/hEy-emH.png" target="_blank"><img src="http://3.1m.yt/hEy-emH.png" alt="ImgLand.net image" /></a>
+<img src="https://vgy.me/huurRT.png">
